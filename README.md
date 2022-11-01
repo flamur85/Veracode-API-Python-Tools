@@ -3,7 +3,7 @@
 Quick and easy set of tools to run for Veracode. 
 
 <b>Directions:</b><ul>
-<li>Import any python dependencies.</li>
+<li>Import python dependencies.</li>
 <li>Create API credentials in Veracode (https://docs.veracode.com/r/c_api_credentials3).</li>
 <li>Configure an API credentials file locally (https://docs.veracode.com/r/c_configure_api_cred_file). </li></ul>
 You should now be all set to run the scripts locally!

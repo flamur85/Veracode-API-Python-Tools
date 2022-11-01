@@ -13,3 +13,4 @@ You should now be all set to run the scripts locally!
  <li>More to come!</li></ol>
 
 <i>*Automate these script in Jenkins <b>(via Jenkinsfile)</b> to run daily so that you get notified upon a failure.</i> 
+<br><br>More information about this integration: https://docs.veracode.com/r/c_enabling_hmac
